@@ -1,1 +1,0 @@
-# pipeline-lakehouse-store
