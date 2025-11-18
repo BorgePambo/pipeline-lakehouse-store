@@ -1,5 +1,6 @@
 
-DATABRICKS - LAKEHOUSE PIPELINE
+DATABRICKS - LAKEHOUSE PIPELINE<img width="856" height="303" alt="Databricks_s3" src="https://github.com/user-attachments/assets/6cc42ed3-6f29-4ebc-96fe-67f4476842da" />
+
 
 # 🚴‍♂️ Lakehouse - BikeStore Ecommerce
 
